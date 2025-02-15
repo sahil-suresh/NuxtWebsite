@@ -1,76 +1,74 @@
 <template>
 <div>
-    <img class="w-full h-auto" src="@/assets/Biography/self.jpg" />
-    <h2 class="font-bold text-2xl py-5">Don Chia (谢祺恩)</h2>
+    <img class="w-full h-auto" src="@/assets/Biography/self.jpeg" />
+    <h2 class="font-bold text-2xl py-5">Sahil Suresh 🐻</h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
-        Software Engineer @ MINDEF Signals Cloud and Digital Office • NOSSAFLEX • Fundigo Co. • Current Inc. •  Apple WWDC 2021 & 2022 SSC Scholar
+        MD-PhD Student @ Tufts University School of Medicine • BA Biological Sciences @ Cornell University 
     </h4>
-    <h4 class="text-gray-600 font-medium text-xs">Singapore 📍</h4>
+    <h4 class="text-gray-600 font-medium text-xs">Boston 📍</h4>
     <div class="flex flex-wrap mt-5 gap-2 items-center">
-        <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Swift-orange" />
         <img class="w-auto h-5 rounded-none text-xs" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
         <img class="w-auto h-5 rounded-none text-xs" alt="SQL" src="https://img.shields.io/badge/-SQL-lightgrey" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="Git" src="https://img.shields.io/badge/-Git-critical" />
+        <img class="w-auto h-5 rounded-none text-xs" alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-critical" />
         <img class="w-auto h-5 rounded-none text-xs" alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-3e8bc3" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="React Native" src="https://img.shields.io/badge/-React Native-blue" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="Vue" src="https://img.shields.io/badge/-VueJS-61b083" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="Flask" src="https://img.shields.io/badge/-Flask-406893" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4ca158" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="SQLite" src="https://img.shields.io/badge/-SQLite-64a2c9" />
-        <img class="w-auto h-5 rounded-none text-xs" alt="Figma" src="https://img.shields.io/badge/-Figma-8c5aee" />
+        <img class="w-auto h-5 rounded-none text-xs" alt="Blender" src="https://img.shields.io/badge/-Blender-61b083" />
+        <img class="w-auto h-5 rounded-none text-xs" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-406893" />
+        <img class="w-auto h-5 rounded-none text-xs" alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-4ca158" />
+        <img class="w-auto h-5 rounded-none text-xs" alt="PsychoPy" src="https://img.shields.io/badge/-PsychoPy-64a2c9" />
+        <img class="w-auto h-5 rounded-none text-xs" alt="Bonsai" src="https://img.shields.io/badge/-Bonsai-8c5aee" />
     </div>
     <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">About Me</h3>
         <p class="font-thin text-sm pb-2.5">
-            I’m a {{ new Date().getFullYear() - 2003 }} year old software engineer who’s a React Native and Vue.JS engineer by day but a native iOS developer by night. Crafting impactful software that serves my community and people around me is my passion.
+            Hello!  I’m Sahil Suresh, an MD-PhD student at Tufts University School of Medicine.  
+
+            I am extremely passionate about ways in which we can broadly leverage advancements in technology to better inform medicine.  This involves the study of recurrent neural networks, mathematical modeling, machine learning and their roles in decoding the complex neural dynamics associated with cognitive dysfunction and aberrant behavioral patterns associated with psychiatric disease states.
         </p>
         <p class="font-thin text-sm pb-2.5">
-            I thrive on staying updated with the latest design trends and development frameworks across all platforms. While my heart lies in native app design and development, I also excel in cross-platform app and web development, which keeps the bills paid.
+            During my PhD education, I hope to explore novel deep learning frameworks that can parse meaningful patterns from fMRI data to serve as early biomarkers for often underdiagnosed psychiatric conditions. 
         </p>
         <p class="font-thin text-sm pb-2.5">
-            At 17, I co-founded NOSSAFLEX with developers from Australia and the US. Since then, it has garnered attention, being featured on local television, Apple’s annual Entrepreneur Camp, and earning a nomination from Apple’s regional team for their annual design awards.
+            During my MD education, I am interested in AI-driven solutions to increasing accessibility to medical education.
         </p>
         <p class="font-thin text-sm pb-2.5">
-            Having collaborated with diverse companies worldwide, from e-commerce to art and design industries, I've honed the ability to manage multiple projects simultaneously across various time zones.
-        </p>
-        <p class="font-thin text-sm pb-2.5">
-            In my spare time, I indulge in scrolling through analog camera listings or admiring my collection, although shooting has taken a backseat due to my various work commitments.
+            In terms of side-projects, I'm extremely interested MedEd, game design and poetry; message if you're looking to collaborate! 
         </p>
     </div>
     <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">Employment History</h3>
+        <h3 class="underline font-bold text-md pb-1">Research Experience</h3>
     </div>
     <div class="pt-7">
-        <h3 class="pb-1"><b>NOSSAFLEX (2020 - Present)</b></h3>
-        <h6 class="text-gray-600 font-medium text-xs">Co-Founder, iOS Engineer</h6>
+        <h3 class="pb-1"><b>Halassa Lab (2023 - Present)</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">PhD Thesis Student</h6>
         <p class="font-thin text-sm pb-2.5">
-            Four years ago, NOSSAFLEX was conceived as a joint venture project between myself, Josh, our designer from Melbourne, and Diego, our lead developer from Virginia. It aims to digitalize the analog photographer's workflow with a series of tools in the form of an iOS application. The app has since undergone multiple redesigns and has been featured on Channel 8 (Singapore), Apple's Entrepreneur Camp website, and was also recently submitted by Apple South Asia team for consideration in the Apple Design Awards.
+            For my thesis, I am leveraging computational models to parse out subpopulations
         </p>
     </div>
 
     <div class="pt-7">
-        <h3 class="pb-1"><b>MINDEF Signals Cloud & Digital Office (2023 - Present)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">Core Team, Lead Engineer</h6>
+        <h3 class="pb-1"><b>Sippy Lab @ NYU Langone and Costa Lab @ Columbia University (2019 - 2022)</b></h3>
+        <h6 class="text-gray-600 font-medium text-sm">Research Assistant</h6>
         <p class="font-thin text-sm pb-2.5">
-            At Signal's Cloud & Digital Office (CADO), I served as the team's Lead Engineer and Designer. My role involves leading the development of application and software by applying my expertise in React Native and Vue.JS. Building robust solutions, tailored to the evolving need of the military.
+            I worked as a research assistant under Dr. Tanya Sippy and Dr. Rui Costa, assessing the mechanisms underlying sensorimotor transformation in direct and indirect pathway neurons of the posterior dorsal striatum in the context of goal-directed behavior.
         </p>
     </div>
 
     <div class="pt-7">
-        <h3 class="pb-1"><b>Fundigo Co. (2022 - Present)</b></h3>
-        <h6 class="text-gray-600 font-medium text-xs">Core Team, Frontend Engineer & UI/UX Designer</h6>
+        <h3 class="pb-1"><b>Genetics Dept @ Mt. Sinai Hospital (Aug 2019 - Dec 2019)</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Clinical Research Coordinator</h6>
         <p class="font-thin text-sm pb-2.5">
-            Utilised Vue.js and Tailwind CSS to construct an e-commerce portal for merchants. Leveraged skills and experience in Figma to design a cross-platform application by applying Material 3 design. The application has since been deployed and is currently in use by merchants.
+            I worked under Dr. Manisha Balwani as a secondary coordinator on Alnylam’s Phase III Trial of Givosiran, a gene silencing therapy drug that utilizes small interfering RNA to treat acute hepatic porphyria.
         </p>
     </div>
 
     <div class="pt-7">
-        <h3 class="pb-1"><b>Current Inc. (2023 - 2024)</b></h3>
-        <h6 class="text-gray-600 font-medium text-xs">Core Team, iOS Engineer</h6>
+        <h3 class="pb-1"><b>Yapici Lab and Pizarro Lab @ Cornell University (2016 - 2019)</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Undergraduate Research Intern</h6>
         <p class="font-thin text-sm pb-2.5">
-            Developed a mobile application for a startup based in California that provides a platform for users to look for EV chargers. The application was built using Apple's SwiftUI framework and was designed to be user-friendly and intuitive.
+            Worked under Dr. Nilay Yapici, characterizing the behavioral phenotypes of allatostatin-C receptor mutants in Drosophila melanogaster in order to understand the role these receptors play in facilitating diapausal behavior.
+        </p>
+        <p class="font-thin text-sm pb-2.5">
+            Worked under Dr. David Pizarro, developing a metanormativity scale aimed at discerning an individual’s alignment with moral objectivism or moral relativism.
         </p>
     </div>
 

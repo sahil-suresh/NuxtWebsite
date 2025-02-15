@@ -15,7 +15,7 @@ const openWindow = (windowId) => {
 }
 
 const openGithub = () => {
-    window.open("https://github.com/DonChiaQE");
+    window.open("https://github.com/sahil-suresh");
 }
 
 

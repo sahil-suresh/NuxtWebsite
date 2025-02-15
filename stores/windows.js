@@ -57,6 +57,27 @@ export const useWindowsStore = defineStore("windows", {
         showInNavbar: true,
       },
       {
+        windowId: "LibraryWindow", // Unique ID
+        windowState: "close", // Window State [open, close, minimize]
+        displayName: "Library", // Display Name (title under icon)
+        windowComponent: "window", // Window Component (can be changed to use modified windows)
+        windowContent: "library", // Window Content (used under slots)
+        windowContentPadding: {
+          top: "0",
+          right: "0",
+          bottom: "0",
+          left: "0",
+        }, // Window Content Padding
+        position: "absolute", // Window Position
+        positionX: "10vw", // Window Position X (when first opened)
+        positionY: "15vh", // Window Position Y (when first opened)
+        iconImage: "resume.png", // Window Icon Image
+        altText: "Library", // Window Icon Alt Text
+        fullscreen: false, // Window Fullscreen State [true, false]
+        showInAppGrid: true,
+        showInNavbar: true,
+      },
+      {
         windowId: "ImagePreviewWindow",
         windowState: "close",
         displayName: "Media Viewer",

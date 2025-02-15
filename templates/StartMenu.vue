@@ -4,38 +4,26 @@
         <img class="sidebar-image" src="@/assets/sidebar-image.png" />
     </div>
     <div class="socials">
-        <a href="https://www.instagram.com/lizardonthecamera/" target="_blank">
+        <a href="https://www.https://www.instagram.com/sahilursa/" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Instagram.webp" />
                 <div class="social-text"><u>I</u>nstagram</div>
             </div>
         </a>
-        <a href="https://www.reddit.com/user/satoshigekkouga2303" target="_blank">
-            <div class="bar">
-                <img class="social-image" src="@/assets/iPhone-Icons/Reddit.webp" />
-                <u>R</u>eddit
-            </div>
-        </a>
-        <a href="https://www.linkedin.com/in/don-chia" target="_blank">
+        <a href="https://www.linkedin.com/in/sahil-suresh" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Linkedin.webp" />
                 <u>L</u>inkedIn
             </div>
         </a>
-        <a href="https://twitter.com/lizarDON2303" target="_blank">
-            <div class="bar">
-                <img class="social-image" src="@/assets/iPhone-Icons/Twitter.webp" />
-                <u>T</u>witter
-            </div>
-        </a>
-        <a href="https://github.com/DonChiaQE" target="_blank">
+        <a href="https://github.com/sahil-suresh" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Github.webp" />
                 <u>G</u>itHub
             </div>
         </a>
         <div class="divider"></div>
-        <a href="/files/don_chia_resume.pdf" target="_blank">
+        <a href="/files/sahil_suresh_resume.pdf" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/win95Icons/resume.png" />
                 <u>R</u>ésumé

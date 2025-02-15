@@ -6,6 +6,7 @@ import Navbar from './templates/Navbar.vue'
 import AppGrid from './templates/AppGrid.vue'
 import Bio from './views/Bio.vue'
 import Resume from './views/Resume.vue'
+import Library from './views/Library.vue'
 import Nossaflex from './views/Nossaflex.vue'
 import Wwdc2021 from './views/Wwdc2021.vue'
 import Wwdc2022 from './views/Wwdc2022.vue'
@@ -28,6 +29,7 @@ const windowComponents = [
 const slotViews = [
   { name: 'bio', comp: Bio },
   { name: 'resume', comp: Resume },
+  { name: 'library', comp: Library },
   { name: 'nossaflex', comp: Nossaflex },
   { name: 'wwdc2021', comp: Wwdc2021 },
   { name: 'wwdc2022', comp: Wwdc2022 },

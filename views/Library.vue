@@ -7,24 +7,9 @@ const windowsStore = useWindowsStore()
 
 <template>
 <div style="display: flex; height: 100%; flex-direction: column">
-    <nav class="download-bar">
-        <a href="/files/sahil_suresh_resume.pdf" class="download" style="z-index: 10" download target="_blank">
-            <span style="display: flex" class="border">
-                <img src="@/assets/Resume/download.png" class="icon-image" />
-                <p style="margin-top: 2px">Download</p>
-            </span>
-        </a>
-
-        <a href="/files/sahil_suresh_resume.pdf" class="download" style="z-index: 10" target="_blank">
-            <span style="display: flex" class="border">
-                <img src="@/assets/Resume/open.png" class="icon-image" />
-                <p style="margin-top: 2px">Open In New Tab</p>
-            </span>
-        </a>
-    </nav>
     <div class="frame" style="z-index: 99">
-        <iframe class="frame" src="https://drive.google.com/file/d/1pXvKxXhL2vJuyY3dcM6jFkA7nPMofCwb/preview"></iframe>
-        <span v-if="windowsStore.activeWindow != 'ResumeWindow'" style="bottom: 0; left: 0; width: 100%; height: 95%; position: absolute" class="overlay"></span>
+        <iframe src="https://fliphtml5.com/bookcase/ggdaw/red" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false"></iframe>
+        <span v-if="windowsStore.activeWindow != 'LibraryWindow'" style="bottom: 0; left: 0; width: 100%; height: 95%; position: absolute" class="overlay"></span>
     </div>
 </div>
 </template>
