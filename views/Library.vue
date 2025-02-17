@@ -8,8 +8,8 @@ const windowsStore = useWindowsStore()
 <template>
 <div style="display: flex; height: 100%; flex-direction: column">
     <div class="frame" style="z-index: 99">
-        <iframe src="https://fliphtml5.com/bookcase/ggdaw/red" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false"></iframe>
-        <span v-if="windowsStore.activeWindow != 'LibraryWindow'" style="bottom: 0; left: 0; width: 100%; height: 95%; position: absolute" class="overlay"></span>
+        <iframe src="https://fliphtml5.com/bookcase/ggdaw/red" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+        <span v-if="windowsStore.activeWindow != 'LibraryWindow'" style="bottom: 0; left: 0; width: 100%; height: 100%; position: absolute" class="overlay"></span>
     </div>
 </div>
 </template>

@@ -1,65 +1,56 @@
 <template>
     <div>
       <img
-        src="@/assets/Wwdc/ssc2021.jpg"
-        alt="Swift Student Challenge"
+        src="@/assets/Wwdc/cubhub1.png"
+        alt="Cub Hub Sim"
         class="hero"
       />
       <div class="inner-content">
-        <h3 class="heading"><b>Apple WWDC Swift Student Challenge 2021</b></h3>
+        <h3 class="heading"><b>Cub Hub</b></h3>
         <p class="paragraph">
-          My journey with Swift began in early 2020 when I embarked on the initial phases of NOSSAFLEX. It was during this time that I began to delve into SwiftUI, a declarative frontend framework for the Swift language.
+          Cub Hub is a passion project of mine that is meant to be an interactive game-ified platform for medical exam studying, complete with a built-in flashcard system, patient OSCE simulators and USMLE style case questions.  My hope is that my unique approach will help students prepare for their exams in both an engaging and alleviating way.
         </p>
       </div>
-      <img src="@/assets/Wwdc/2021_1.jpg" class="images" />
-      <h6 class="subtitle">Page 1 of Submission</h6>
+      <img src="@/assets/Wwdc/cubhub2.png" class="images" />
+      <h6 class="subtitle">Cub Hub Interface</h6>
       <div class="inner-content">
-        <h3 class="heading"><b>Ideation</b></h3>
+        <h3 class="heading"><b>Inspiration</b></h3>
         <p class="paragraph">
-          The ideation phase kicked off when Apple announced open submissions for all students worldwide. Without delay, I chose to focus on an area of development that particularly intrigued me: web development. I expanded upon the concept of web development within an app and initiated the creation of prototypes for the project. Initially, I developed a simple app that enabled live editing of HTML/CSS pages using SwiftUI.
+           The inspiration for Cub Hub stemmed from my own passion for enhancing accessibility to medical education and developing novel affordable tools that are competitive with current third-party products in the medical field.  Cub Hub integrates elements of cozy gaming from its Animal Crossing-inspired aesthetic to the underlying gacha game-based mechanics to provide a rewarding and immersive experience.
         </p>
       </div>
-      <img src="@/assets/Wwdc/2021_2.jpg" class="images" />
-      <h6 class="subtitle">Page 2 of Submission</h6>
+      <img src="@/assets/Wwdc/cubhub3.png" class="images" />
+      <h6 class="subtitle">Interactive AI Study Companions</h6>
       <div class="inner-content">
         <h3 class="heading"><b>Content</b></h3>
         <p class="paragraph">
-          What became apparent to me was that merely having a functional app was only one aspect of a successful submission. It was essential to complement it with compelling content while showcasing the technical proficiency of the developer. Consequently, I made the decision to develop a tutorial-style playground project that would teach users how to utilize HTML/CSS.
+          In Cub Hub, users can collect characters that serve as AI-driven study companions that assist them throughout case studies, OSCE simulations, and flashcard sessions. These companions serve as virtual mentors, offering hints, guidance, and explanations to enhance the learning process.
         </p>
         <p class="paragraph">
-          Moreover, by acquiring basic HTML/CSS skills, users could delve deeper into learning about me. Through engaging in simple challenges embedded within the project, users could uncover interesting facts about me. This approach not only facilitated a valuable learning experience but also provided users with an opportunity to learn more about me personally.
+          Players earn **honeycombs**—the in-game currency—by answering questions correctly. These honeycombs can then be used to unlock and collect new companions, encouraging continuous learning and progression.
+        </p>
+        <p class="paragraph">
+          Characters are voiced as well and initiate dynamic conversation with the user.  They can react to the user's choices and provide tailored feedback, thus creating a more personalized and interactive study environment.
         </p>
       </div>
-      <img src="@/assets/Wwdc/2021_3.jpg" class="images" />
-      <h6 class="subtitle">Page 3 of the Submission</h6>
+      <img src="@/assets/Wwdc/cubhub4.png" class="images" />
+      <h6 class="subtitle">Interactive AI Study Companions</h6>
       <div class="inner-content">
-        <h3 class="heading"><b>Submission</b></h3>
+        <h3 class="heading"><b>Store</b></h3>
         <p class="paragraph">
-          Upon completing the development of the project, I was required to submit two 500-word essays detailing the project and my experiences with programming and development outside of WWDC. Here's a pro-tip for anyone aspiring to participate in WWDC SSC: always submit both essays, even if it's stated as optional! Apple evaluates your entire submission alongside these essays, and they undoubtedly play a significant role in the judging process.
+          The store operates off of gacha-style mechanics with a rotating selection of shop items and banners where users can redeem characters, themed notebooks, soundtracks and more.  This system enhances engagement, rewarding consistent studying with collectibles.
         </p>
       </div>
-      <img src="@/assets/Wwdc/wwdc2021_win.jpg" class="images" />
-      <h6 class="subtitle">Winner's Page for 2021</h6>
+      <img src="@/assets/Wwdc/cubhub5.png" class="images" />
+      <h6 class="subtitle">Bear Bazaar</h6>
       <div class="inner-content">
-        <h3 class="heading"><b>2021's Success</b></h3>
+        <h3 class="heading"><b>Flashcard</b></h3>
         <p class="paragraph">
-          I successfully clinched WWDC SSC and was honored as one of the 350 students worldwide to receive the winning prize. Alongside this achievement, I was offered a media opportunity with a local outlet. The following month, I had the chance to appear on the local news, where I discussed my development journey.
+          The flashcard system is loosely based off of Anki however provides the added mechanic of competing against your AI study companion as an option.
         </p>
       </div>
-      <img src="@/assets/Wwdc/swag2021.jpg" class="images-full" />
-      <h6 class="subtitle" style="padding-bottom: 30px">WWDC Swag!</h6>
-      <div class="video">
-        <embed
-          src="https://www.youtube.com/embed/qGlhv0LeLVE?autohide=1&autoplay=0"
-          wmode="transparent"
-          type="video/mp4"
-          width="100%"
-          height="100%"
-          allow="autoplay; encrypted-media; picture-in-picture"
-          allowfullscreen
-          title="WWDC Interview"
-        />
-      </div>
+      <img src="@/assets/Wwdc/cubhub6.png" class="images-full" />
+      <h6 class="subtitle" style="padding-bottom: 30px">Flashcard System</h6>
     </div>
   </template>
   

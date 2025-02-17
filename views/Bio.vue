@@ -5,7 +5,7 @@
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
         MD-PhD Student @ Tufts University School of Medicine • BA Biological Sciences @ Cornell University 
     </h4>
-    <h4 class="text-gray-600 font-medium text-xs">Boston 📍</h4>
+    <h4 class="text-gray-600 font-medium text-xs">Boston, MA 📍</h4>
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
         <img class="w-auto h-5 rounded-none text-xs" alt="SQL" src="https://img.shields.io/badge/-SQL-lightgrey" />
@@ -28,7 +28,7 @@
             During my PhD education, I hope to explore novel deep learning frameworks that can parse meaningful patterns from fMRI data to serve as early biomarkers for often underdiagnosed psychiatric conditions. 
         </p>
         <p class="font-thin text-sm pb-2.5">
-            During my MD education, I am interested in AI-driven solutions to increasing accessibility to medical education.
+            During my MD education, I am interested in AI-driven solutions to increasing accessibility to medical education across social and economic barriers.
         </p>
         <p class="font-thin text-sm pb-2.5">
             In terms of side-projects, I'm extremely interested MedEd, game design and poetry; message if you're looking to collaborate! 
@@ -37,23 +37,23 @@
     <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">Research Experience</h3>
     </div>
-    <div class="pt-7">
-        <h3 class="pb-1"><b>Halassa Lab (2023 - Present)</b></h3>
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Halassa Lab @ Tufts School of Medicine (2023 - Present)</b></h3>
         <h6 class="text-gray-600 font-medium text-xs">PhD Thesis Student</h6>
         <p class="font-thin text-sm pb-2.5">
-            For my thesis, I am leveraging computational models to parse out subpopulations
+            For my thesis, advised by Dr. Michael Halassa, I am integrating machine learning algorithms with fMRI data to investigate the neural mechanisms underlying cognitive flexibility and decision-making. Through collaborations with Brown, Princeton, Dartmouth, Vanderbilt, the University of Iowa, and NYU, I aim to bridge behavioral modeling with neuroimaging to better understand disruptions of cognitive flexibility in neuropsychiatric disorders.
         </p>
     </div>
 
-    <div class="pt-7">
+    <div class="pt-3">
         <h3 class="pb-1"><b>Sippy Lab @ NYU Langone and Costa Lab @ Columbia University (2019 - 2022)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">Research Assistant</h6>
+        <h6 class="text-gray-600 font-medium text-xs">Research Assistant</h6>
         <p class="font-thin text-sm pb-2.5">
             I worked as a research assistant under Dr. Tanya Sippy and Dr. Rui Costa, assessing the mechanisms underlying sensorimotor transformation in direct and indirect pathway neurons of the posterior dorsal striatum in the context of goal-directed behavior.
         </p>
     </div>
 
-    <div class="pt-7">
+    <div class="pt-3">
         <h3 class="pb-1"><b>Genetics Dept @ Mt. Sinai Hospital (Aug 2019 - Dec 2019)</b></h3>
         <h6 class="text-gray-600 font-medium text-xs">Clinical Research Coordinator</h6>
         <p class="font-thin text-sm pb-2.5">
@@ -61,10 +61,10 @@
         </p>
     </div>
 
-    <div class="pt-7">
+    <div class="pt-3">
         <h3 class="pb-1"><b>Yapici Lab and Pizarro Lab @ Cornell University (2016 - 2019)</b></h3>
         <h6 class="text-gray-600 font-medium text-xs">Undergraduate Research Intern</h6>
-        <p class="font-thin text-sm pb-2.5">
+        <p class="font-thin text-sm pb-0">
             Worked under Dr. Nilay Yapici, characterizing the behavioral phenotypes of allatostatin-C receptor mutants in Drosophila melanogaster in order to understand the role these receptors play in facilitating diapausal behavior.
         </p>
         <p class="font-thin text-sm pb-2.5">
@@ -73,87 +73,98 @@
     </div>
 
     <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">Projects & Achievements</h3>
+        <h3 class="underline font-bold text-md pb-1">Education</h3>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Tufts University School of Medicine</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">MD-PhD Candidate (2022-Present)</h6>
+        <p class="font-thin text-sm pb-2.5">
+            Current G1 specializing in Computational Neuroscience
+        </p>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Carney Institue of Computational Neuroscience @ Brown University</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Computational Modeling Summer Program (Summer 2024)</h6>
+        <p class="font-thin text-sm pb-2.5">
+            Introduction to Bayesian Modeling, Reinforcement Learning, Drift Diffusion Modeling
+        </p>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Cornell University</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">BA in Biological Sciences (2015-2019)</h6>
+        <p class="font-thin text-sm pb-2.5">
+            Concentration in Neurobiology and Behavior
+            Minors - Psychology and Creative Writing
+        </p>
     </div>
 
     <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Publications</h3>
+    </div>
 
-        <div class="">
-            <h3 class="pb-1"><b>Apple Design Awards 2024</b></h3>
-            <h6 class="text-gray-600 font-medium text-xs">Shortlisted Regionally</h6>
-            <p class="font-thin text-sm pb-2.5">
-                Analog was shortlisted by Apple South Asia Developer Relations team and submitted to Apple Cupertino HQ for consideration in Apple’s annual Design Award. Apple’s South Asia DR team praised Analog for its adherence to Apple’s Human Interaction guidelines while adding a unique UI spin to the application’s design
-
-            </p>
-        </div>
-
-        <div class="pt-7">
-            <h3 class="pb-1"><b>Apple Entrepreneur Camp 2023</b></h3>
-            <h6 class="text-gray-600 font-medium text-xs">Accepted</h6>
-            <p class="font-thin text-sm pb-2.5">
-                Analog was accepted into Apple’s Entrepreneur Camp 2023, an international programme designed to support developers providing access to Apple Engineers and Leaders to accelerate the growth of their app-driven businesses.
-            </p>
-        </div>
-        
-        <div class="pt-7">
-            <h3 class="pb-1"><b>SAF Innovation Award 2023 - OMNIA Application by Signals Cloud & Digital Office</b></h3>
-            <h6 class="text-gray-600 font-medium text-xs">Awarded</h6>
-            <p class="font-thin text-sm pb-2.5">
-                OMNIA web application was awarded SAF’s Innovation Award in 2023, it successfully served its purpose as a management app for Exercise Forging Sabre held in Idaho, USA.
-            </p>
-        </div>
-
-        <div class="pt-7">
-            <h3 class="pb-1"><b>Apple WWDC Scholar 2022</b></h3>
-            <h6 class="text-gray-600 font-medium text-xs">Awarded</h6>
-            <p class="font-thin text-sm pb-2.5">
-                Yet another successful attempt at Apple's international coding
-                competition. By making use of SwiftUI once more, I created a short app
-                experience that explores recursive art patterns and abstract art. With
-                the help of generative art, I was able to create a unique experience
-                that most people would have rarely come across.
-            </p>
-            <p class="font-thin text-sm pb-2.5">
-                Check out my submission
-                <a style="color: #ff5733" href="https://github.com/DonChiaQE/ReGen">here</a>!
-            </p>
-            <p class="font-thin text-sm pb-2.5">
-                As this news has only just recently reached me, I will be updating this
-                section once more when I have receive more news from Apple HQ.
-            </p>
-        </div>
-
-        <div class="pt-7">
-            <h3 class="pb-1"><b>Apple WWDC Scholar 2021</b></h3>
-            <h6 class="text-gray-600 font-medium text-xs">Awarded</h6>
-            <p class="font-thin text-sm pb-2.5">
-                My second try at Apple's international coding competition was finally a
-                successful one. Making use of my prowess with web development, I decided
-                to create a Swift Playground project that taught users how to make use
-                of HTML and CSS to create a simple website.
-            </p>
-            <p class="font-thin text-sm pb-2.5">
-                Making use of Apple's SwiftUI framework as well as the nifty WKWebView
-                API, I managed to create a working editor that would allow users to
-                meddle with HTML and CSS. I proceeded to create a playground book
-                project around that idea and came up with a tutorial sequence for the
-                user to follow.
-            </p>
-            <p class="font-thin text-sm pb-2.5">
-                Check out my submission
-                <a style="color: #ff5733" href="https://github.com/DonChiaQE/WWDC2021">here</a>!
-            </p>
-            <p class="font-thin text-sm pb-2.5">
-                And check out my interview with the local news outlet regarding
-                NOSSAFLEX and my WWDC experience
-                <a style="color: #ff5733" href="https://www.youtube.com/watch?v=RwtzXxSSJAc">right here</a>!
-            </p>
-        </div>
+    <div class="pt-3">
+        <h3 class="pb-1"><b>A prefrontal thalamocortical readout for conflict-related executive dysfunction in schizophrenia</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Anna S. Huang ∙ Ralf D. Wimmer ∙ Norman H. Lam ∙ Bin A. Wang ∙ Sahil Suresh ∙ Maxwell J. Roeske ∙ Burkhard Pleger ∙ Michael M. Halassa ∙ Neil D. Woodward</h6>
+        <p class="font-thin text-sm pb-0">
+            •	Developed a task to interrogate allocating attention with conflicting inputs
+        </p>
+        <p class="font-thin text-sm pb-0">
+            •	People with schizophrenia are more susceptible to conflicting inputs
+        </p>
+        <p class="font-thin text-sm pb-0">
+            •	Right MD-dlPFC functional connectivity as readout for conflict-related executive deficit
+        </p>
+        <p class="font-thin text-sm pb-2.5">
+            Read here:
+            <a style="color: #ff5733" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00549-4">here</a>!
+        </p>
     </div>
 
     <div class="pt-7">
-        <h3 class="pb-1"><b>Résumé</b></h3>
-        <a style="color: #ff5733" href="/files/don_chia_resume.pdf" class="font-thin text-sm pb-2.5">Check out my résumé here.</a>
+        <h3 class="underline font-bold text-md pb-1">Other Positions</h3>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>MD+</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Director of AI & Data (2025-Current)</h6>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Tufts Art Collective</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">President (2023-2024)</h6>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Cornell Undergraduate Research Board</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Peer Mentor (2018-2019)</h6>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Cornell Mario Einaudi Center for Diversity</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Graphics Designer (2018-2019)</h6>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>BIOMG 1290 Personal Genomics and Medicine</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Teaching Assistant (2018-2019)</h6>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Cornell Quill Guild</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">Publicity Chair (2018-2019)</h6>
+    </div>
+
+    <div class="pt-3">
+        <h3 class="pb-1"><b>Cornell Cardiology Group</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">President (2017-2018)</h6>
+    </div>
+
+    <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Résumé</h3>
+        <a style="color: #ff5733" href="/files/sahil_suresh_resume.pdf" class="font-thin text-sm pb-2.5">Download my résumé here.</a>
     </div>
 </div>
 </template>

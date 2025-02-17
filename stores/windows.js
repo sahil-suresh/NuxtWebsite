@@ -144,7 +144,7 @@ export const useWindowsStore = defineStore("windows", {
     {
         windowId: "AppleWWDC2021",
         windowState: "close",
-        displayName: "WWDC 2021",
+        displayName: "Cub Hub",
         windowComponent: "window",
         windowContent: "wwdc2021",
         windowContentPadding: {
@@ -156,8 +156,8 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "apple.png",
-        altText: "Apple WWDC 2021",
+        iconImage: "cubhub.png",
+        altText: "Cub Hub",
         fullscreen: false,
         showInAppGrid: true,
         showInNavbar: true,
@@ -165,7 +165,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "AppleWWDC2022",
         windowState: "close",
-        displayName: "WWDC 2022",
+        displayName: "Bonsai-Rx",
         windowComponent: "window",
         windowContent: "wwdc2022",
         windowContentPadding: {
@@ -177,8 +177,8 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "apple2.png",
-        altText: "Apple WWDC 2022",
+        iconImage: "bonsai.png",
+        altText: "Bonsai-Rx",
         fullscreen: false,
         showInAppGrid: true,
         showInNavbar: true,
