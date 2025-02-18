@@ -1,6 +1,6 @@
 <template>
 <div>
-    <img class="w-full h-auto" src="@/assets/Biography/self.jpeg" />
+    <img class="w-full h-auto" src="@/assets/Biography/self.png" />
     <h2 class="font-bold text-2xl py-5">Sahil Suresh 🐻</h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
         MD-PhD Student @ Tufts University School of Medicine • BA Biological Sciences @ Cornell University 
@@ -118,7 +118,7 @@
             •	Right MD-dlPFC functional connectivity as readout for conflict-related executive deficit
         </p>
         <p class="font-thin text-sm pb-2.5">
-            Read here:
+            Read 
             <a style="color: #ff5733" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00549-4">here</a>!
         </p>
     </div>

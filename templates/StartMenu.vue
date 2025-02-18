@@ -29,12 +29,6 @@
                 <u>R</u>ésumé
             </div>
         </a>
-        <a href="https://apps.apple.com/app/nossaflex/id1523558285" target="_blank">
-            <div class="bar">
-                <img class="social-image" src="@/assets/iPhone-Icons/Nossaflex.webp" />
-                <u>N</u>OSSAFLEX
-            </div>
-        </a>
     </div>
 </div>
 </template>
